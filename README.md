@@ -1,2 +1,3 @@
 # Jingdong-Crowdfunding-request
-京东众筹串行爬虫
+
+使用request的京东众筹串行爬虫
